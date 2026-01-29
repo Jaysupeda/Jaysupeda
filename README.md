@@ -1,111 +1,69 @@
 # 👋 Hi, I’m Jay Supeda
 🚀 Senior Frontend Developer | React Specialist | Team Lead | AI-Powered Product Builder
-💫 About Me
 
-I’m a Senior Frontend Developer with 7.5+ years of experience, building scalable, high-performance, and user-centric web applications.
+# 💫 About Me
+- I’m a Senior Frontend Developer with 7.5+ years of experience, building scalable, high-performance, and user-centric web applications.
+- In recent years, I’ve evolved my workflow by deeply integrating AI into frontend development, UI/UX, and product building — enabling me to build 2–3× faster while maintaining clean architecture and high quality.
+- I don’t just use AI — I leverage multiple AI models strategically to solve real-world problems and turn ideas into production-ready products.
 
-In recent years, I’ve evolved my workflow by deeply integrating AI into frontend development, UI/UX, and product building — enabling me to build 2–3× faster while maintaining clean architecture and high quality.
+# 🤖 AI-Driven Development Mindset
+- I actively use AI as a development accelerator and thinking partner, not a shortcut.
 
-I don’t just use AI — I leverage multiple AI models strategically to solve real-world problems and turn ideas into production-ready products.
+# 🧠 How I Use AI in My Work
+- ⚡ Speed up frontend development 2–3× using AI-assisted coding
+- 🎨 Improve UI/UX decisions, layout structure, and accessibility
+- 🧩 Break down complex business problems into implementable solutions
+- 🏗️ Design scalable frontend architecture with AI-assisted reviews
+- 🔍 Debug faster and optimize performance intelligently
+- 🚀 Rapidly prototype, iterate, and ship real products
 
-🤖 AI-Driven Development Mindset
+# 🧪 AI Models & Tools I Work With
+- ChatGPT – architecture, coding, refactoring, debugging
+- Gemini – logic validation, content & workflow generation
+- Claude – long-context analysis, clean code reasoning
+- Other AI tools for UI inspiration, copy, and product ideation
 
-I actively use AI as a development accelerator and thinking partner, not a shortcut.
+# 🧠 What I Do Best
+- 🧩 Build complex frontend applications using React, Next.js & TypeScript
+- ⚡ Deliver production-ready UI faster using AI-accelerated workflows
+- 👨‍🏫 Lead frontend teams, review code, and mentor developers
+- 🤖 Build AI-powered frontend products that solve real business problems
+- 🎯 Convert ideas into scalable, maintainable, and user-friendly products
 
-🧠 How I Use AI in My Work
+# 🔭 Currently Working On
+- AI-powered frontend applications using React & Next.js
+- Real-world product ideas where AI enhances UX & functionality
+- Portfolio projects focused on problem-solving, not demos
+- Exploring better ways to combine Frontend + AI + UX
 
-⚡ Speed up frontend development 2–3× using AI-assisted coding
+# 🌱 Currently Learning & Exploring
+- Advanced React patterns & large-scale architecture
+- Next.js App Router & performance optimization
+- TypeScript for enterprise-level applications
+- AI product design & AI-first UX patterns
+- Best practices for shipping AI features to production
 
-🎨 Improve UI/UX decisions, layout structure, and accessibility
+# 👯 Open to Collaborate On
+- AI-powered web products
+- SaaS platforms & dashboards
+- Frontend-heavy applications with real users
+- Products where AI genuinely improves outcomes
 
-🧩 Break down complex business problems into implementable solutions
+# 🤝 Looking for Help With
+- Advanced frontend system design
+- AI UX patterns in production apps
+- Scaling AI-enabled frontend systems
 
-🏗️ Design scalable frontend architecture with AI-assisted reviews
+# 💬 Ask Me About
+- React & Frontend architecture
+- AI-assisted frontend development
+- UI/UX optimization using AI
+- Performance tuning
+- Team leadership & mentoring
+- Building real products with modern tech
 
-🔍 Debug faster and optimize performance intelligently
-
-🚀 Rapidly prototype, iterate, and ship real products
-
-🧪 AI Models & Tools I Work With
-
-ChatGPT – architecture, coding, refactoring, debugging
-
-Gemini – logic validation, content & workflow generation
-
-Claude – long-context analysis, clean code reasoning
-
-Other AI tools for UI inspiration, copy, and product ideation
-
-🧠 What I Do Best
-
-🧩 Build complex frontend applications using React, Next.js & TypeScript
-
-⚡ Deliver production-ready UI faster using AI-accelerated workflows
-
-👨‍🏫 Lead frontend teams, review code, and mentor developers
-
-🤖 Build AI-powered frontend products that solve real business problems
-
-🎯 Convert ideas into scalable, maintainable, and user-friendly products
-
-🔭 Currently Working On
-
-AI-powered frontend applications using React & Next.js
-
-Real-world product ideas where AI enhances UX & functionality
-
-Portfolio projects focused on problem-solving, not demos
-
-Exploring better ways to combine Frontend + AI + UX
-
-🌱 Currently Learning & Exploring
-
-Advanced React patterns & large-scale architecture
-
-Next.js App Router & performance optimization
-
-TypeScript for enterprise-level applications
-
-AI product design & AI-first UX patterns
-
-Best practices for shipping AI features to production
-
-👯 Open to Collaborate On
-
-AI-powered web products
-
-SaaS platforms & dashboards
-
-Frontend-heavy applications with real users
-
-Products where AI genuinely improves outcomes
-
-🤝 Looking for Help With
-
-Advanced frontend system design
-
-AI UX patterns in production apps
-
-Scaling AI-enabled frontend systems
-
-💬 Ask Me About
-
-React & Frontend architecture
-
-AI-assisted frontend development
-
-UI/UX optimization using AI
-
-Performance tuning
-
-Team leadership & mentoring
-
-Building real products with modern tech
-
-⚡ Fun Fact
-
-Using AI smartly helps me ship features faster, cleaner, and with better UX — AI doesn’t replace skills, it amplifies them 🤖⚡
-
+# ⚡ Fun Fact
+- Using AI smartly helps me ship features faster, cleaner, and with better UX — AI doesn’t replace skills, it amplifies them 🤖⚡
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/jay_supeda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaysupeda/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10378651/jay-supeda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaysupeda@gmail.com) 
